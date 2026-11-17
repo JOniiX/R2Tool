@@ -9,3 +9,5 @@
 - **Compilation Lua** : compile un script `.lua` en `.lc` lisible par le jeu
   
 Pour la compilation Lua, `LuaCompilerR2.dll` doit se trouver dans le même répertoire que `R2Tool.exe`.
+
+<img width="371" height="329" alt="image" src="https://github.com/user-attachments/assets/551e75c6-4e00-4a71-8c13-6b9f24636bb8" />
